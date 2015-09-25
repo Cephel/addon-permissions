@@ -1,0 +1,3 @@
+# addon-permissions
+
+Coming soon
