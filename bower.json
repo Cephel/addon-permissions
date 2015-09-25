@@ -1,0 +1,17 @@
+{
+  "name": "addon-permissions",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Cephel/addon-permissions",
+  "authors": [
+    "Cephei <cepheidev+git@gmail.com>"
+  ],
+  "description": "todo: add description",
+  "license": "GPL-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

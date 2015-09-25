@@ -1,0 +1,27 @@
+{
+  "name": "addon-permissions",
+  "version": "1.0.0",
+  "description": "todo: add description",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cephel/addon-permissions.git"
+  },
+  "author": "Cephei",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Cephel/addon-permissions/issues"
+  },
+  "homepage": "https://github.com/Cephel/addon-permissions#readme",
+  "devDependencies": {
+    "bower": "^1.5.3",
+    "electron-packager": "^5.1.0",
+    "electron-prebuilt": "^0.33.1",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-electron": "^2.0.1"
+  }
+}

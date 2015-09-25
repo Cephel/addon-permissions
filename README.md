@@ -1,3 +1,3 @@
 # addon-permissions
 
-Coming soon
+Coming soon...
