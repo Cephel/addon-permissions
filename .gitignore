@@ -34,3 +34,4 @@ $RECYCLE.BIN/
 ### Project ###
 node_modules
 build
+npm-debug.log
